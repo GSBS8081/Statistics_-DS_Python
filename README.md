@@ -1,4 +1,5 @@
 Task 1: Become familiar with the dataset
+
 Task 2: Generate Descriptive Statistics and Visualizations
   For all visualizations, please include a title in each graph and appropriate labels 
   Generate the following and explain your findings:
@@ -7,6 +8,7 @@ Task 2: Generate Descriptive Statistics and Visualizations
     •	Provide a boxplot for the MEDV variable vs the AGE variable. (Discretize the age variable into three groups of 35 years and younger, between 35 and 70 years and 70 years and older)
     •	Provide a scatter plot to show the relationship between Nitric oxide concentrations and the proportion of non-retail business acres per town. What can you say about the relationship?
     •	Create a histogram for the pupil to teacher ratio variable
+    
 Task 3: Use the appropriate tests to answer the questions provided.
   For each of the following questions;
     •	Is there a significant difference in median value of houses bounded by the Charles river or not? (T-test for independent samples)
